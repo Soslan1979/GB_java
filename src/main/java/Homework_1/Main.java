@@ -1,3 +1,9 @@
+/**
+ * Калабеков С.К.
+ * ДЗ номер 1
+ * 6.07.22
+ * */
+
 package Homework_1;
 
 import Homework_1.Team.Team;
